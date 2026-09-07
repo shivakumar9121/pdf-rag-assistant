@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 from retrieve import hybrid_retrieve
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 
 def get_llm() -> OpenAI:
     return OpenAI(
