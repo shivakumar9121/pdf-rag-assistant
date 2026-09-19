@@ -75,6 +75,4 @@ The recorded evaluation files use a separate LlamaIndex pipeline, different from
 
 Useful next improvements include reproducible retrieval tests, a fixed evaluation document set, relevance thresholds and explicit collection cleanup.
 
-## Repository history
 
-Originally hosted at [Siddhu-6/notes-gpt](https://github.com/Siddhu-6/notes-gpt) and imported here with its existing commit history. Original commit authorship has been preserved.
